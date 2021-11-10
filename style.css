@@ -1,0 +1,13 @@
+#book{
+  height:90px;
+  width:90px;
+  
+}
+body{
+  text-align:center;
+  background:linear-gradient(lightblue 20%, lightgreen 30%, lightgoldenrodyellow 100% );
+background-repeat:no-repeat;
+    font-family: 'Mochiy Pop P One', sans-serif;
+  
+
+}
